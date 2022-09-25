@@ -4,7 +4,12 @@ Que es YAHOO?
 Es una de las principales plataformas que se pueden visitar en paginas web. 
 
 Quien lo creo? 
-Lo creo el Jerry Yang y el David Filo. 
+Lo creo  Jerry Yang y David Filo. 
+
 
 Como se creo?
-Se muchas paginas web facilitar a las personas la busqueda de información. 
+Se crearon muchas paginas web facilitar a las personas la busqueda de información. 
+
+Historia
+
+Yahoo 
